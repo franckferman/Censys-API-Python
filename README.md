@@ -7,7 +7,7 @@
 
 <!-- Logo -->
 <a href="https://github.com/franckferman/Censys-API-Python">
-  <img src="https://raw.githubusercontent.com/franckferman/Censys-API-Python/refs/heads/main/docs/github/graphical_resources/Banner_Censys-API-Python.png" alt="banner-Censys-API-Python" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/Censys-API-Python/refs/heads/stable/docs/github/graphical_resources/Banner_Censys-API-Python.png" alt="banner-Censys-API-Python" width="auto" height="auto">
 </a>
 
 <!-- Title & Tagline -->
